@@ -4,7 +4,7 @@ let path = require('path')
 let fs = require('fs')
 let package = require('./package.json')
 const CFonts  = require('cfonts')
-CFonts.say('Loading To Mastah\nHL Bot', {
+CFonts.say('Loading To Mastah\nBot', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
