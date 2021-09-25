@@ -94,3 +94,15 @@ conn.logger.level = 'debug'
 #### Powered By : [`XTEAM`](https://api.xteam.xyz)
 
 #### Author / Creator : [`Nurutomo`](https://GitHub.com/Nurutomo)
+
+</div>
+
+<p align="center">
+<a href="##"><img title="vean" src="https://img.shields.io/static/v1?label=package&message=Xin&color=pink"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/bittier"><img title="Author" src="https://img.shields.io/badge/Author-Kapten-green.svg?style=for-the-badge&logo=github" /></a>
+</p>
+<p align="center">
+<a href="#"><img title="mengmarah" src="https://img.shields.io/static/v1?label=CREATOR&message=SHxin&color=blue"></a>
+</p>
