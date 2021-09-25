@@ -34,7 +34,7 @@ global.author = 'KAPTEN'
 
 global.wait = '_Sedang diproses . . ._'
 global.error = '_Fitur Error !_'
-global.ltm = '*❏ Instagram*\nhttps://instagram.com/azkan_e*'
+global.ltm = '❏ Instagram*\nhttps://instagram.com/azkan_e'
 
 // global.multiplier = 69 // The higher, The harder levelup
 
