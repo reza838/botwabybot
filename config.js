@@ -1,6 +1,6 @@
 global.hl = '.'   // prefix hl bot
 
-global.owner = ['6283119526456','6282215215399']
+global.owner = ['6281649175378','6281649175378']
 global.mods = ['6281257735703']
 global.APIs = {
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -34,7 +34,7 @@ global.author = 'LTM Bot'
 
 global.wait = '_Sedang diproses . . ._'
 global.error = '_Fitur Error !_'
-global.ltm = '*❏ Instagram*\nhttps://instagram.com/loadingtomastah\n*❏ Telegram*\nhttps://t.me/loadingtomastah'
+global.ltm = '*❏ Instagram*\nhttps://instagram.com/azkan_e
 
 // global.multiplier = 69 // The higher, The harder levelup
 
